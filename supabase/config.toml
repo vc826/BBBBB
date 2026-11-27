@@ -1,0 +1,8 @@
+[functions.place-order]
+verify_jwt = true
+
+[functions.send-notification]
+verify_jwt = true
+
+[functions.funding]
+verify_jwt = true

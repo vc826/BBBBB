@@ -1,0 +1,17 @@
+{
+  "projectId": "73118598",
+  "functions": {
+    "place-order": {
+      "hasChanged": false,
+      "hash": "8579a80f3593f7cf2c735b58f79c46cdef3402b5e1e2b529ad37cc4e187d1fb2"
+    },
+    "send-notification": {
+      "hasChanged": false,
+      "hash": "fb60c132e931472e5c87bcadecb9cdd7e87d764a7c8573a09d5ac19c8545acb4"
+    },
+    "funding": {
+      "hasChanged": false,
+      "hash": "5ace13b74556306301a8243745db40f8a3272a04c9e7a3befd0812327ac15b00"
+    }
+  }
+}
